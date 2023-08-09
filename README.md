@@ -22,4 +22,16 @@ In this first notebook I am covering some of the fundamental concepts of tensor 
 
 **01_neural_network_regression.ipynb**
 
-...
+- Architecture of a neural network regression model
+
+- Input shapes and output shapes of a regression model (features and labels)
+
+- Creating custom data to view and fit
+
+- Steps in modelling
+
+    - Creating a model, compiling a model, fitting a model, evaluating a model.
+
+- Different evaluation methods
+
+- Saving and loading models
