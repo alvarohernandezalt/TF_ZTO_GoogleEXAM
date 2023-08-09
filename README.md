@@ -35,3 +35,5 @@ In this first notebook I am covering some of the fundamental concepts of tensor 
 - Different evaluation methods
 
 - Saving and loading models
+
+...
